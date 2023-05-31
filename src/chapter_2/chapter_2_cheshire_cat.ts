@@ -37,5 +37,3 @@ export function meetTheCheshireCat(): void {
 		return endAdventure();
 	}
 }
-
-meetTheCheshireCat();
